@@ -8,22 +8,6 @@
         <link rel="stylesheet" href="css/home.css"/>
         <!-- Custom styles for this template -->
         <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>    
-
-        <style>
-            .bd-placeholder-img {
-                font-size: 1.125rem;
-                text-anchor: middle;
-                -webkit-user-select: none;
-                -moz-user-select: none;
-                user-select: none;
-            }
-
-            @media (min-width: 768px) {
-                .bd-placeholder-img-lg {
-                    font-size: 3.5rem;
-                }
-            }
-        </style>
     </head>
     <body class="d-flex h-100 text-center text-white bg-dark">
         <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
